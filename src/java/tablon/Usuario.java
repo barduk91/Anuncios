@@ -14,6 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class Usuario extends UsuarioBase {
 
+//Hola
     // Atributos
     private String nombre;
     private int numMensajes;
